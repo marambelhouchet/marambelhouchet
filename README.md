@@ -51,6 +51,7 @@
   
   <img src="https://camo.githubusercontent.com/ef4c338d2e835e7b6ecbb2bae2d2b973478827f6d37a1060d3814e6cb5d94fa6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6167676c652f6b6167676c652d617232312e737667" alt="VSCode" width="100" height="100"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VSCode" width="100" height="100"/>
+   <img src="https://camo.githubusercontent.com/19fa1e44a1afb4c78ba0502fa9a35a4548b92a5993070e45f99cc6fa52b6a35b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f737061726b2f6170616368655f737061726b2d617232312e737667" alt="VSCode" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/scala-original.svg" alt="Scala" width="100" height="100"/>
@@ -66,6 +67,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="100" height="100"/>
+<img src="https://camo.githubusercontent.com/98e50820fe0546b10175898bb6977c86cc6aa2f0cd222d4c87c6f1f6c19e1823/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7562756e74752f7562756e74752d617232312e737667" alt="Mongodb" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="100" height="100"/>
