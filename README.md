@@ -9,6 +9,20 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+everybody..&hearts;++;Self-taught+Data+Analyst,;Computer+Science+(Big+Data)+Student,;JavaScript,+Python,+and+Java+Enthusiast,;Active+Learner/Researcher,;Passionate+about+New+Technologies..<3">
   </a>
 </p>
+<h1>About Me</h1>
+
+<p>👋 Hi there! I'm [Your Name], an enthusiastic student passionate about Big Data and Data Analysis. Currently pursuing my studies in Big Data and Data Analysis, I'm deeply intrigued by the world of data and its potential to uncover insights and drive decisions.</p>
+
+<p>Here are a few things about me:</p>
+
+- 🎓 I'm a student specializing in Big Data and Data Analysis.
+- 💻 I enjoy exploring data, uncovering patterns, and deriving meaningful insights.
+- 🌱 I'm constantly learning and expanding my skills in the field of data science and analytics.
+- 📊 I'm passionate about using data-driven approaches to solve real-world problems and make informed decisions.
+- 🚀 I'm excited about the possibilities that emerge at the intersection of technology, data, and innovation.
+
+<p>Feel free to connect with me on LinkedIn or reach out via email!</p>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
   <img align="center" height="150" width="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLgks5cS1YtywSW5mLlMnAVGI2NGUzCKCdYyZcZWzBg&s">
@@ -28,6 +42,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VSCode" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/scala-original.svg" alt="Scala" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="100" height="100"/>
