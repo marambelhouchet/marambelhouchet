@@ -3,6 +3,14 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<p align="center">
+	<a href="https://github.com/FirasKahlaoui">
+		<img src="https://komarev.com/ghpvc/?username=marambelhouchet&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/marambelhouchet">
+		<img src="https://img.shields.io/github/followers/marambelhouchet?label=Followers" alt="marambelhouchet" />
+	</a>
+</p>
 <h1 align="center">Hi 👋, I'm Maram Belhouchet</h1>
 <p align="center" style="color: pink;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
