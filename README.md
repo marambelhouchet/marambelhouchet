@@ -4,12 +4,12 @@
        alt="snake" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Maram Belhouchet</h1>
-<p align="center">
+<p align="center" style="color: pink;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+everybody..&hearts;++;Self-taught+Data+Analyst,;Computer+Science+(Big+Data)+Student,;JavaScript,+Python,+and+Java+Enthusiast,;Active+Learner/Researcher,;Passionate+about+New+Technologies..<3">
-
+   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+everybody..&hearts;++;Self-taught+Data+Analyst,;Computer+Science+(Big+Data)+Student,;JavaScript,+Python,+and+Java+Enthusiast,;Active+Learner/Researcher,;Passionate+about+New+Technologies..<3">
   </a>
 </p>
+
 
 - 📫 How to reach me **marambelhouchet625@gmail.com**
 
