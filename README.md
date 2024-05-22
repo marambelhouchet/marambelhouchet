@@ -20,6 +20,12 @@
 - 🌱 I'm constantly learning and expanding my skills in the field of data science and analytics.
 - 📊 I'm passionate about using data-driven approaches to solve real-world problems and make informed decisions.
 - 🚀 I'm excited about the possibilities that emerge at the intersection of technology, data, and innovation.
+- 🌐 I engage in web scraping to collect data from various sources for analysis.
+- 🤖 I develop machine learning prediction models to forecast trends and make data-driven predictions.
+- 🌍 I build websites and web applications to present data in interactive and user-friendly ways.
+- ☁️ I'm exploring cloud technologies to enhance data storage, processing, and analysis capabilities.
+
+<p>Feel free to connect with me on LinkedIn or reach out via email!</p>
 
 
 
