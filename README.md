@@ -4,6 +4,12 @@
        alt="snake" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Maram Belhouchet</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+everybody..&hearts;++;Self-taught+Data+Analyst,;Computer+Science+(Big+Data)+Student,;JavaScript,+Python,+and+Java+Enthusiast,;Active+Learner/Researcher,;Passionate+about+New+Technologies..<3">
+
+  </a>
+</p>
 
 - 📫 How to reach me **marambelhouchet625@gmail.com**
 
@@ -42,19 +48,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/marambelhouchet"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="marambelhouchet" /></a></p><br><br>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marambelhouchet&layout=compact&theme=cobalt" alt=marambelhouchet />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marambelhouchet&show_icons=true&locale=en&theme=cobalt" alt="marambelhouchet" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marambelhouchet&theme=cobalt" alt="marambelhouchet" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/marambelhouchet">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marambelhouchet&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marambelhouchet&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marambelhouchet&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marambelhouchet&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marambelhouchet&theme=2077" height="180em" />
-</div>
