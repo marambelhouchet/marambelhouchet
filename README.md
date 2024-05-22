@@ -33,7 +33,6 @@
 - 🌍 I build websites and web applications to present data in interactive and user-friendly ways.
 - ☁️ I'm exploring cloud technologies to enhance data storage, processing, and analysis capabilities.
 
-<p>Feel free to connect with me on LinkedIn or reach out via email!</p>
 
 
 
@@ -45,14 +44,25 @@
 
 </p>
 
-- 📫 How to reach me **marambelhouchet625@gmail.com**
+ </div><h3 align="left">Connect with me:</h3> - 📫<div align='left'>
+<p>Excited about new projects! Let's collaborate. Don't hesitate to contact me to launch new projects.  Connect with me on through those platforms:</p>
+<ul>
 
-<div> <a href="https://www.linkedin.com/in/Maram Belhouchet" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/marambelhouchet" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:marambelhouchet625@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Maram Belhouchet" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Maram Belhouchet" height="30" width="40" /></a><a href="https://fb.com/Maram Bel" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Maram Bel" height="30" width="40" /></a><a href="https://discord.gg/maram_54347" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="maram_54347" height="30" width="40" /></a><a href="https://kaggle.com/Maram Belhouchet" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="Maram Belhouchet" height="30" width="40" /></a></p>
+<li>
+<a href="https://www.linkedin.com/in/maram-belhouchet-4a9b5a252/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  marambelhouchet-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<li>
+<a href="mailto:marambelhouchet625@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  marambelhouchet-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
