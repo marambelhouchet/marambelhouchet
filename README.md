@@ -11,7 +11,7 @@
 </p>
 <h1>About Me</h1>
 
-<p>👋 Hi there! I'm [Your Name], an enthusiastic student passionate about Big Data and Data Analysis. Currently pursuing my studies in Big Data and Data Analysis, I'm deeply intrigued by the world of data and its potential to uncover insights and drive decisions.</p>
+<p>👋 Hi there! I'm Maram Belhouchet, an enthusiastic student passionate about Big Data and Data Analysis. Currently pursuing my studies in Big Data and Data Analysis, I'm deeply intrigued by the world of data and its potential to uncover insights and drive decisions.</p>
 
 <p>Here are a few things about me:</p>
 
@@ -21,7 +21,7 @@
 - 📊 I'm passionate about using data-driven approaches to solve real-world problems and make informed decisions.
 - 🚀 I'm excited about the possibilities that emerge at the intersection of technology, data, and innovation.
 
-<p>Feel free to connect with me on LinkedIn or reach out via email!</p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
@@ -42,6 +42,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  
+  <img src="https://camo.githubusercontent.com/ef4c338d2e835e7b6ecbb2bae2d2b973478827f6d37a1060d3814e6cb5d94fa6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6167676c652f6b6167676c652d617232312e737667" alt="VSCode" width="100" height="100"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VSCode" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="100" height="100"/>
