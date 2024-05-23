@@ -99,3 +99,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/marambelhouchet"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="marambelhouchet" /></a></p><br><br>
 
+## <img src="https://img.freepik.com/free-vector/fluffy-cute-cloud_24877-82622.jpg" width="80" /> Thanks for Visiting
+
+### Don't forget to 🌟 this repository! It really helps!!  <img src="https://1000logos.net/wp-content/uploads/2022/09/Blue-Heart-Emoji-Mean.png" width="40" />
