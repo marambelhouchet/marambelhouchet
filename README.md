@@ -19,11 +19,11 @@
 </p>
 <h1>About Me</h1>
 
-<p>👋 Hi there! I'm Maram Belhouchet, an enthusiastic student passionate about Big Data and Data Analysis. Currently pursuing my studies in Big Data and Data Analysis, I'm deeply intrigued by the world of data and its potential to uncover insights and drive decisions.</p>
+<p>👋 Hi there! I'm Maram Belhouchet, a software engineering student. I'm deeply intrigued by the world of data and its potential to uncover insights and drive decisions.</p>
 
 <p>Here are a few things about me:</p>
 
-- 🎓 I'm a student specializing in Big Data and Data Analysis.
+- 🎓 I'm a software engineering student student.
 - 💻 I enjoy exploring data, uncovering patterns, and deriving meaningful insights.
 - 🌱 I'm constantly learning and expanding my skills in the field of data science and analytics.
 - 📊 I'm passionate about using data-driven approaches to solve real-world problems and make informed decisions.
