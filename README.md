@@ -23,7 +23,7 @@
 
 <p>Here are a few things about me:</p>
 
-- 🎓 I'm a software engineering student student.
+- 🎓 I'm a software engineering student.
 - 💻 I enjoy exploring data, uncovering patterns, and deriving meaningful insights.
 - 🌱 I'm constantly learning and expanding my skills in the field of data science and analytics.
 - 📊 I'm passionate about using data-driven approaches to solve real-world problems and make informed decisions.
